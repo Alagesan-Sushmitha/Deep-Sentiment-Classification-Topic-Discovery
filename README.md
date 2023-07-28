@@ -31,7 +31,37 @@ Here are a bunch of reasons why NLP is the best to respond to the question above
 The process and outcome of the LSTM model for COVID-19 comments can be assessed using various evaluation metrics. Firstly, the model's performance on the training and validation sets can be monitored during the training process by analyzing the loss and accuracy metrics. Secondly, the model's performance can be evaluated on a separate test dataset that was not used during training. This can be done by calculating the model's accuracy, and loss percentage. Additionally, we can perform cross-validation to assess the model's performance more accurately. Finally, we can compare the results of our model with other state-of-the-art models and techniques used for sentiment analysis on similar datasets to evaluate its effectiveness.
 
 # Data Acquisition
+Data acquisition is the process of collecting and gathering raw data from various sources and transforming it into a format that can be used for analysis or other applications.
+### Identify the data source
+ The methodology for collecting data sources for the deliverable will involve several steps to ensure the data is appropriate. First, we have already identified sources of COVID-19 patient comments, posted on Reddit from Kaggle. There was a total of 5,63,079 comments extracted, assessed, and used for this experiment.
+The dataset was collected between January 20, 2020, and March 19, 2020.
+We have then evaluated the data to ensure they contain relevant comments from COVID-19 patients that are suitable for sentiment analysis and topic modeling. Some of the NLP techniques that have been incorporated are Topic Modelling – LDA & Gibbs Sampling, Sentiment Analysis / determining the sentiment polarity, Machine learning algorithms for sentiment analysis, Long-Short Term Model (LSTM).
+
 # Data Cleaning
+Steps taken to determine whether the data should be considered sensitive.
+* Sensitive data is any information that, if revealed, could harm, or embarrass people, as it relates to COVID-19 patient comments. Examples of sensitive information include personally identifiable information (PII), names of persons, financial information about the cost of medical care in a certain hospital, and any other information that can be used to identify a person.
+*	Evaluating the data's possible hazards, such as the danger of injury or embarrassment to certain people if the data were revealed. 
+*	Data protection procedures are implemented to safeguard the data based on the risk assessment. For example, the data may be anonymized, access restrictions may be put in place, or sensitive data fields may be encrypted.
+* Legal or ethical requirements linked with the collection and management of sensitive data are necessary.
+
+  ![image](https://github.com/Alagesan-Sushmitha/Deep-Sentiment-Classification-Topic-Discovery/assets/137837229/1bccc6d3-e125-48fd-9705-312257bd7fcf)
+  
+  ![image](https://github.com/Alagesan-Sushmitha/Deep-Sentiment-Classification-Topic-Discovery/assets/137837229/7fce5ed5-0545-4f92-9bda-ead627b57fc9)
+
+#### Data Processing
+
+![image](https://github.com/Alagesan-Sushmitha/Deep-Sentiment-Classification-Topic-Discovery/assets/137837229/244cb1fc-5e56-4a4e-b55c-33ce80670ea3)
+
+![image](https://github.com/Alagesan-Sushmitha/Deep-Sentiment-Classification-Topic-Discovery/assets/137837229/c44e435b-ec60-428e-be29-bf2952c77663)
+
+![image](https://github.com/Alagesan-Sushmitha/Deep-Sentiment-Classification-Topic-Discovery/assets/137837229/567ca5de-feb4-4281-ae2e-ded7447b38a8)
+
+![image](https://github.com/Alagesan-Sushmitha/Deep-Sentiment-Classification-Topic-Discovery/assets/137837229/6a102f1e-5d3b-4c16-86dd-fb72a4ed7f4f)
+
+
+
+
+
 # Data Modelling
 # Data Analysis 
 
