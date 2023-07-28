@@ -54,7 +54,7 @@ Steps taken to determine whether the data should be considered sensitive.
 
 ![image](https://github.com/Alagesan-Sushmitha/Deep-Sentiment-Classification-Topic-Discovery/assets/137837229/c44e435b-ec60-428e-be29-bf2952c77663)
 
-![image](https://github.com/Alagesan-Sushmitha/Deep-Sentiment-Classification-Topic-Discovery/assets/137837229/567ca5de-feb4-4281-ae2e-ded7447b38a8)
+![image](https://github.com/Alagesan-Sushmitha/Deep-Sentiment-Classification-Topic-Discovery/assets/137837229/f72223b0-c558-4e65-9319-c5314446f688)
 
 ![image](https://github.com/Alagesan-Sushmitha/Deep-Sentiment-Classification-Topic-Discovery/assets/137837229/6a102f1e-5d3b-4c16-86dd-fb72a4ed7f4f)
 
