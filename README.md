@@ -59,14 +59,14 @@ Steps taken to determine whether the data should be considered sensitive.
 ![image](https://github.com/Alagesan-Sushmitha/Deep-Sentiment-Classification-Topic-Discovery/assets/137837229/6a102f1e-5d3b-4c16-86dd-fb72a4ed7f4f)
 
 # Data Modelling
-#### Model Identification
+### Model Identification
 The model we have chosen is the Deep learning Neural network model – LSTM (Long-Short Term Model).
 
-#### Why this model is optimal?
+### Why this model is optimal?
 For natural language processing (NLP) applications like sentiment classification and topic discovery, the LSTM (Long Short-Term Memory) neural network model is a viable option since it is particularly well-suited for evaluating sequential input, such as text.
 
-#### Strengths of this model
-### Flexibility in handling different kinds of input data:
+### Strengths of this model
+#### Flexibility in handling different kinds of input data:
 With several types of input features, like word embeddings or character-level representations, LSTMs can handle input sequences of varying lengths.
 #### Improved performance:
 On a variety of natural languages processing tasks, such as sentiment classification, language modeling, and machine translation, it has been proven that LSTMs can perform at the cutting edge of technology.
