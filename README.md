@@ -89,7 +89,21 @@ For natural language processing tasks where there may be a lot of noisy or irrel
 
 ![image](https://github.com/Alagesan-Sushmitha/Deep-Sentiment-Classification-Topic-Discovery/assets/137837229/14dd624a-5bde-45c4-a3b6-a7b4dfafb2c3)
 
-# Data Analysis 
+# Data Analysis
+
+### Product at the analysis phase: 
+The product at the analysis phase should be a software system that is capable of automatically extracting COVID-19-related discussions from social media platforms and applying NLP techniques to identify various topics related to COVID-19. The system should also have an LSTM-based sentiment classification model that can classify the sentiment of the comments related to COVID-19 with high accuracy. The product should have a user-friendly interface that allows users to input their queries and view the results in an understandable format. The system should also be scalable to handle large amounts of data from various social media platforms.
+
+### The measure of the success: 
+There are so many measures used to assess and compare the effectiveness of the suggested deep learning approach and conventional machine learning techniques for categorizing the sentiment of COVID-19 comments. Accuracy is the best metric to measure the performance of the models in terms of correctly classifying the sentiment of the COVID-19 comments. The output of the model will be the probability of the sentiment. If the probability is above a certain threshold, then it is classified as positive otherwise it is negative. In the sentiment categorization of COVID-19 comments, the LSTM model outperformed other well-known machine learning algorithms including SVM, Naive Bayes, Logistic Regression, and KNN, with an accuracy of 81.15%. The authors also point out that studies have demonstrated the effectiveness of LSTM-based models for tasks involving natural language processing, including sentiment analysis, text production, and machine translation.
+
+# Conclusion
+
+Researchers can learn more about the public's thoughts and opinions about the epidemic by analyzing conversations on social media about COVID-19 employing natural language processing and sentiment analysis tools. Legislators and public health professionals might utilize this data to guide their choices about how to combat the pandemic and engage the public.
+
+The research findings and methods can be applied to create systems and instruments that help medical practitioners monitor and react to public health issues in real-time. Businesses can utilize sentiment analysis to understand how their company's name or products are perceived in the market and make intelligent choices as a result. When identifying new topics along with trends in their area of study, researchers can find topic modeling to be especially helpful. For businesses that deal with a lot of text data and wish to automate their workflows, deep learning can be especially helpful. Medical Care, banking, service to customers, and marketing are just a few of the industries where NLP has the potential to increase productivity, accuracy, and effectiveness. Based on unstructured data sources like communications, records, and social media posts, NLP may be employed to extract pertinent information. Decision-making and data analysis may benefit from this. NLP can help condense lengthy articles, reports, and documents into shorter, clearer versions. This can speed up information access and save time.
+
+
 
 
 
