@@ -77,6 +77,17 @@ The issue of vanishing gradients, which can be a serious problem with convention
 #### Robustness to noise & stop words: 
 For natural language processing tasks where there may be a lot of noisy or irrelevant data, LSTMs are resilient to input noise, which is significant.
 
+![image](https://github.com/Alagesan-Sushmitha/Deep-Sentiment-Classification-Topic-Discovery/assets/137837229/99242b1d-8ed3-4d03-b98e-6f6378d706a5)
+
+![image](https://github.com/Alagesan-Sushmitha/Deep-Sentiment-Classification-Topic-Discovery/assets/137837229/34fb5c4c-5390-40ad-9b95-c10ae6def656)
+
+![image](https://github.com/Alagesan-Sushmitha/Deep-Sentiment-Classification-Topic-Discovery/assets/137837229/f4f673f5-aa42-4197-918e-1bee90b9a9b9)
+
+![image](https://github.com/Alagesan-Sushmitha/Deep-Sentiment-Classification-Topic-Discovery/assets/137837229/27f18f0a-065d-4d9b-9c87-35d915d877c5)
+
+![image](https://github.com/Alagesan-Sushmitha/Deep-Sentiment-Classification-Topic-Discovery/assets/137837229/47c7e01f-e7c0-4fa2-b923-5f6a41f7d5b9)
+
+![image](https://github.com/Alagesan-Sushmitha/Deep-Sentiment-Classification-Topic-Discovery/assets/137837229/14dd624a-5bde-45c4-a3b6-a7b4dfafb2c3)
 
 # Data Analysis 
 
