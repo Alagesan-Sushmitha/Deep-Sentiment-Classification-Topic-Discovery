@@ -1,6 +1,7 @@
 # Deep-Sentiment-Classification and Topic-Discovery with NLP using LSTM Recurrent Network approach
 
 # Question
+
 How can health services be improved using sentiment classifications based on the remarks made by Covid 19 patients between January 2020 and March 2020 on a social media platform like Reddit from across the world?
 
 # Importance
@@ -11,6 +12,7 @@ How can health services be improved using sentiment classifications based on the
 * This can ultimately lead to the expedited and improved delivery of health services, which is particularly important during a global health crisis like the Covid 19 pandemic.
 
 # Stakeholders
+
 #### Healthcare providers: 
 The primary stakeholder of this question that we are addressing here is the healthcare providers. They typically gain insights into the challenges faced by the people during the pandemic in a way that can help them improve their services and respond to the needs of their patients. 
 #### Patients and Families: 
@@ -21,6 +23,7 @@ Public health agencies are the ones responsible for developing policies and prog
 Researchers and academics make use of sentiment analysis to conduct research and develop new insights into the experiences of people during the pandemic. They can use this to publish research papers and contribute to the academic literature on the topic.
 
 # Importance of NLP
+
 Here are a bunch of reasons why NLP is the best to respond to the question above:
 *	NLP can generally handle large amounts of unstructured data, such as user comments on social media platforms, and analyze them in a relatively short time.
 *	NLP can effectively perform sentiment analysis to identify and categorize opinions and emotions expressed in user comments related to COVID 19
@@ -28,9 +31,11 @@ Here are a bunch of reasons why NLP is the best to respond to the question above
 * NLP can be easily integrated with other technologies such as machine learning and data visualization to provide a comprehensive understanding of user comments related to COVID-19.
 
 # Assessing the process and outcome of the project
+
 The process and outcome of the LSTM model for COVID-19 comments can be assessed using various evaluation metrics. Firstly, the model's performance on the training and validation sets can be monitored during the training process by analyzing the loss and accuracy metrics. Secondly, the model's performance can be evaluated on a separate test dataset that was not used during training. This can be done by calculating the model's accuracy, and loss percentage. Additionally, we can perform cross-validation to assess the model's performance more accurately. Finally, we can compare the results of our model with other state-of-the-art models and techniques used for sentiment analysis on similar datasets to evaluate its effectiveness.
 
 # Data Acquisition
+
 Data acquisition is the process of collecting and gathering raw data from various sources and transforming it into a format that can be used for analysis or other applications.
 ### Identify the data source
  The methodology for collecting data sources for the deliverable will involve several steps to ensure the data is appropriate. First, we have already identified sources of COVID-19 patient comments, posted on Reddit from Kaggle. There was a total of 5,63,079 comments extracted, assessed, and used for this experiment.
@@ -38,6 +43,7 @@ The dataset was collected between January 20, 2020, and March 19, 2020.
 We have then evaluated the data to ensure they contain relevant comments from COVID-19 patients that are suitable for sentiment analysis and topic modeling. Some of the NLP techniques that have been incorporated are Topic Modelling – LDA & Gibbs Sampling, Sentiment Analysis / determining the sentiment polarity, Machine learning algorithms for sentiment analysis, Long-Short Term Model (LSTM).
 
 # Data Cleaning
+
 Steps taken to determine whether the data should be considered sensitive.
 * Sensitive data is any information that, if revealed, could harm, or embarrass people, as it relates to COVID-19 patient comments. Examples of sensitive information include personally identifiable information (PII), names of persons, financial information about the cost of medical care in a certain hospital, and any other information that can be used to identify a person.
 *	Evaluating the data's possible hazards, such as the danger of injury or embarrassment to certain people if the data were revealed. 
@@ -59,6 +65,7 @@ Steps taken to determine whether the data should be considered sensitive.
 ![image](https://github.com/Alagesan-Sushmitha/Deep-Sentiment-Classification-Topic-Discovery/assets/137837229/6a102f1e-5d3b-4c16-86dd-fb72a4ed7f4f)
 
 # Data Modelling
+
 ### Model Identification
 The model we have chosen is the Deep learning Neural network model – LSTM (Long-Short Term Model).
 
