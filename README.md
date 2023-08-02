@@ -110,9 +110,3 @@ Researchers can learn more about the public's thoughts and opinions about the ep
 
 The research findings and methods can be applied to create systems and instruments that help medical practitioners monitor and react to public health issues in real-time. Businesses can utilize sentiment analysis to understand how their company's name or products are perceived in the market and make intelligent choices as a result. When identifying new topics along with trends in their area of study, researchers can find topic modeling to be especially helpful. For businesses that deal with a lot of text data and wish to automate their workflows, deep learning can be especially helpful. Medical Care, banking, service to customers, and marketing are just a few of the industries where NLP has the potential to increase productivity, accuracy, and effectiveness. Based on unstructured data sources like communications, records, and social media posts, NLP may be employed to extract pertinent information. Decision-making and data analysis may benefit from this. NLP can help condense lengthy articles, reports, and documents into shorter, clearer versions. This can speed up information access and save time.
 
-
-
-
-
-
-
